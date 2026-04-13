@@ -1,0 +1,17 @@
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Infrastructure\bin\Debug\net9.0\ApiTestEntraID.Infrastructure.deps.json
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Infrastructure\bin\Debug\net9.0\ApiTestEntraID.Infrastructure.dll
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Infrastructure\bin\Debug\net9.0\ApiTestEntraID.Infrastructure.pdb
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Infrastructure\bin\Debug\net9.0\ApiTestEntraID.Application.dll
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Infrastructure\bin\Debug\net9.0\ApiTestEntraID.Domain.dll
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Infrastructure\bin\Debug\net9.0\ApiTestEntraID.Domain.pdb
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Infrastructure\bin\Debug\net9.0\ApiTestEntraID.Application.pdb
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Infrastructure\obj\Debug\net9.0\ApiTestEntraID.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Infrastructure\obj\Debug\net9.0\ApiTestEntraID.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Infrastructure\obj\Debug\net9.0\ApiTestEntraID.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Infrastructure\obj\Debug\net9.0\ApiTestEntraID.Infrastructure.AssemblyInfo.cs
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Infrastructure\obj\Debug\net9.0\ApiTestEntraID.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Infrastructure\obj\Debug\net9.0\ApiTestE.70B90C2F.Up2Date
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Infrastructure\obj\Debug\net9.0\ApiTestEntraID.Infrastructure.dll
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Infrastructure\obj\Debug\net9.0\refint\ApiTestEntraID.Infrastructure.dll
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Infrastructure\obj\Debug\net9.0\ApiTestEntraID.Infrastructure.pdb
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Infrastructure\obj\Debug\net9.0\ref\ApiTestEntraID.Infrastructure.dll

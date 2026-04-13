@@ -1,0 +1,11 @@
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Domain\bin\Debug\net9.0\ApiTestEntraID.Domain.deps.json
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Domain\bin\Debug\net9.0\ApiTestEntraID.Domain.dll
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Domain\bin\Debug\net9.0\ApiTestEntraID.Domain.pdb
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Domain\obj\Debug\net9.0\ApiTestEntraID.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Domain\obj\Debug\net9.0\ApiTestEntraID.Domain.AssemblyInfoInputs.cache
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Domain\obj\Debug\net9.0\ApiTestEntraID.Domain.AssemblyInfo.cs
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Domain\obj\Debug\net9.0\ApiTestEntraID.Domain.csproj.CoreCompileInputs.cache
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Domain\obj\Debug\net9.0\ApiTestEntraID.Domain.dll
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Domain\obj\Debug\net9.0\refint\ApiTestEntraID.Domain.dll
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Domain\obj\Debug\net9.0\ApiTestEntraID.Domain.pdb
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Domain\obj\Debug\net9.0\ref\ApiTestEntraID.Domain.dll

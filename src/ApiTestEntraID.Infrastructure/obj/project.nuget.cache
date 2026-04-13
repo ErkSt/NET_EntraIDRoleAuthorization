@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bNW6gQVMtV0=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Infrastructure\\ApiTestEntraID.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erkst\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

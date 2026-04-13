@@ -1,0 +1,15 @@
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Application\bin\Debug\net9.0\ApiTestEntraID.Application.deps.json
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Application\bin\Debug\net9.0\ApiTestEntraID.Application.dll
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Application\bin\Debug\net9.0\ApiTestEntraID.Application.pdb
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Application\bin\Debug\net9.0\ApiTestEntraID.Domain.dll
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Application\bin\Debug\net9.0\ApiTestEntraID.Domain.pdb
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Application\obj\Debug\net9.0\ApiTestEntraID.Application.csproj.AssemblyReference.cache
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Application\obj\Debug\net9.0\ApiTestEntraID.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Application\obj\Debug\net9.0\ApiTestEntraID.Application.AssemblyInfoInputs.cache
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Application\obj\Debug\net9.0\ApiTestEntraID.Application.AssemblyInfo.cs
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Application\obj\Debug\net9.0\ApiTestEntraID.Application.csproj.CoreCompileInputs.cache
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Application\obj\Debug\net9.0\ApiTestE.40653C22.Up2Date
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Application\obj\Debug\net9.0\ApiTestEntraID.Application.dll
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Application\obj\Debug\net9.0\refint\ApiTestEntraID.Application.dll
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Application\obj\Debug\net9.0\ApiTestEntraID.Application.pdb
+C:\Users\erkst\OneDrive\Documentos\ApiTestEntraID\src\ApiTestEntraID.Application\obj\Debug\net9.0\ref\ApiTestEntraID.Application.dll

@@ -1,0 +1,305 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Web\\ApiTestEntraID.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Application\\ApiTestEntraID.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Application\\ApiTestEntraID.Application.csproj",
+        "projectName": "ApiTestEntraID.Application",
+        "projectPath": "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Application\\ApiTestEntraID.Application.csproj",
+        "packagesPath": "C:\\Users\\erkst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erkst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Domain\\ApiTestEntraID.Domain.csproj": {
+                "projectPath": "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Domain\\ApiTestEntraID.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Domain\\ApiTestEntraID.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Domain\\ApiTestEntraID.Domain.csproj",
+        "projectName": "ApiTestEntraID.Domain",
+        "projectPath": "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Domain\\ApiTestEntraID.Domain.csproj",
+        "packagesPath": "C:\\Users\\erkst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erkst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Infrastructure\\ApiTestEntraID.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Infrastructure\\ApiTestEntraID.Infrastructure.csproj",
+        "projectName": "ApiTestEntraID.Infrastructure",
+        "projectPath": "c:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Infrastructure\\ApiTestEntraID.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\erkst\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erkst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Application\\ApiTestEntraID.Application.csproj": {
+                "projectPath": "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Application\\ApiTestEntraID.Application.csproj"
+              },
+              "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Domain\\ApiTestEntraID.Domain.csproj": {
+                "projectPath": "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Domain\\ApiTestEntraID.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Web\\ApiTestEntraID.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Web\\ApiTestEntraID.Web.csproj",
+        "projectName": "ApiTestEntraID.Web",
+        "projectPath": "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Web\\ApiTestEntraID.Web.csproj",
+        "packagesPath": "C:\\Users\\erkst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erkst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Application\\ApiTestEntraID.Application.csproj": {
+                "projectPath": "C:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Application\\ApiTestEntraID.Application.csproj"
+              },
+              "c:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Infrastructure\\ApiTestEntraID.Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\erkst\\OneDrive\\Documentos\\ApiTestEntraID\\src\\ApiTestEntraID.Infrastructure\\ApiTestEntraID.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.Identity.Web.UI": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
